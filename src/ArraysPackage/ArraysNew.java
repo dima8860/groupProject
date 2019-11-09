@@ -2,7 +2,7 @@ package ArraysPackage;
 
 public class ArraysNew {
     public static void main(String[] args) {
-        /* new push, branch work;
+        /* new push, branch work; tester2; pull from master;
         Array is one group of collections thar can hold multiple things of the same kind
         // ex:
         // String name1 = "james";
