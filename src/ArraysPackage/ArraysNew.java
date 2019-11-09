@@ -2,7 +2,8 @@ package ArraysPackage;
 
 public class ArraysNew {
     public static void main(String[] args) {
-        /* Array is one group of collections thar can hold multiple things of the same kind
+        /* new push
+        Array is one group of collections thar can hold multiple things of the same kind
         // ex:
         // String name1 = "james";
         String name2 = "joe";
