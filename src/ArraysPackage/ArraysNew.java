@@ -2,7 +2,7 @@ package ArraysPackage;
 
 public class ArraysNew {
     public static void main(String[] args) {
-        /* new push
+        /* dfsdds
         Array is one group of collections thar can hold multiple things of the same kind
         // ex:
         // String name1 = "james";
